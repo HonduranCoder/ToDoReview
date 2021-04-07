@@ -1,0 +1,7 @@
+h1{
+    color: red;
+}
+.completed{ /* completed class */
+    text-decoration: line-through;
+    color: gray;
+}
